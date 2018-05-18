@@ -34,7 +34,7 @@ Si ha descarregat el fitxer _bombers.apk_ directament al seu PC ha de passar aqu
 
 Un cop trobi mitjançant el seu gestor de fitxers _bombers.apk_, faci clic a sobre i dugui endavant la instal·lació. Aquest procés no serà diferent a la instal·lació d'altres aplicacions.
 
-> Aquesta aplicació només funciona per a dispositius **andorid**.
+> Aquesta aplicació només funciona en dispositius **andorid**.
 
 ## Orígens desconeguts
 Si en el moment d'instal·lar l'aplicació mòbil li apareix un missatge de que és necessàri activar els _orígens desconeguts_ dugui endavant els següents passos:
