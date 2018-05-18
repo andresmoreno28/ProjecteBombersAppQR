@@ -4,6 +4,7 @@
 
 - [Què és?](#que-es)
 - [Qui?](#qui)
+- [Descàrrega](#descarrega)
 
 # Què és?
 
@@ -22,3 +23,6 @@ Professors:
 - Alejandro Milián Sangüesa
 - Carles Anyó Luna
 - Toni Morant Fornés
+
+# Descàrrega
+[Descarregar](https://github.com/rogerforner/bombers-qrReader/blob/master/bombers.apk?raw=true) l'aplicació **.apk** (android).
