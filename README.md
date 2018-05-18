@@ -10,7 +10,7 @@
 
 **Bombers QR Reader** és un complement (aplicació android) del projecte final del Cicle Formatiu de Grau Superior de _Desenvolupament d'Aplicacions Web (DAW)_, de l'[Institut Montsià](http://agora.xtec.cat/insmontsia/) (Amposta - Terres de l'Ebre).
 
-Per més informació visiti el projecte principal [Bombers](https://github.com/rogerforner/bombers#qr-reader-android).
+Per més informació visiti el projecte principal [Bombers](https://github.com/rogerforner/bombers).
 
 # Qui?
 
