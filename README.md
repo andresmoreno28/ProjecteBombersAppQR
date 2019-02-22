@@ -12,14 +12,14 @@
 
 **Bombers QR Reader** és un complement (aplicació android) del projecte final del Cicle Formatiu de Grau Superior de _Desenvolupament d'Aplicacions Web (DAW)_, de l'[Institut Montsià](http://agora.xtec.cat/insmontsia/) (Amposta - Terres de l'Ebre).
 
-Per més informació visiti el projecte principal [Bombers](https://github.com/rogerforner/bombers).
+Per més informació visiti el projecte principal [Bombers](https://github.com/rogerforner/CFGS-DAW-Projecte-BombersGestio-TerresEbre).
 
 # Qui?
 
 Equip:
 - [Andrés Moreno Rubio](https://www.linkedin.com/in/andr%C3%A9s-moreno-rubio-49ab1860/)
 - [Enric Beltran Cano](https://www.linkedin.com/in/enric-beltran-cano-400264156/)
-- [Roger Forner Fabre](https://www.linkedin.com/in/rogerforner/)
+- [Roger Forner Fabre](https://rogerforner.com)
 
 Professors:
 - Alejandro Milián Sangüesa
@@ -27,7 +27,7 @@ Professors:
 - Toni Morant Fornés
 
 # Descàrrega
-[Descarregar](https://github.com/rogerforner/bombers-qrReader/blob/master/bombers.apk?raw=true) l'aplicació **.apk** (android).
+[Descarregar](https://github.com/rogerforner/CFGS-DAW-Projecte-BombersQR-TerresEbre/blob/master/bombers.apk?raw=true?raw=true) l'aplicació **.apk** (android).
 
 # Instal·lació
 Si ha descarregat el fitxer _bombers.apk_ directament al seu PC ha de passar aquest al seu telèfon móvil, desprès busqui'l mitjançant la seva aplicació de *gestió de fitxers* preferida.
